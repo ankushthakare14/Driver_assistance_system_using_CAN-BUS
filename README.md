@@ -1,6 +1,4 @@
-For your README file, you can organize the information as follows:
 
----
 
 # Driver Assistance System Using CAN Bus
 
